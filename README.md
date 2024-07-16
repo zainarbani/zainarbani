@@ -1,3 +1,9 @@
+<h4 align="left">Hi, I'm Zain.</h4>
+<h5 align="left">I am self-taught, driven by humanity's greatest nature "curiousity".
+All I do is write those if-else statements and debug a lot.
+</h5>
+
+---
 <h4 align="center">Find me on</h4>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCHJGunG6mzyL9-URu62yVUQ">
@@ -19,17 +25,14 @@
 
 <h4 align="center">Powered by</h4>
 <p align="center">
+  <a href="https://google.com/">
+     <img src="https://img.shields.io/badge/Google-1C1C1C?style=plastic&logo=google"/>
+  </a>
   <a href="https://stackoverflow.com/">
      <img src="https://img.shields.io/badge/Stack%20Overflow-1C1C1C?style=plastic&logo=stackoverflow"/>
   </a>
-  <a href="https://stackexchange.com/">
-     <img src="https://img.shields.io/badge/Stack%20Exchange-1C1C1C?style=plastic&logo=stackexchange"/>
-  </a>
-  <a href="https://www.quora.com/">
-     <img src="https://img.shields.io/badge/Super%20User-1C1C1C?style=plastic&logo=superuser"/>
-  </a>
-  <a href="https://reddit.com/">
-     <img src="https://img.shields.io/badge/Reddit-1C1C1C?style=plastic&logo=reddit"/>
+  <a href="https://openai.com/">
+     <img src="https://img.shields.io/badge/OpenAI-1C1C1C?style=plastic&logo=openai"/>
   </a>
 </p>
 
