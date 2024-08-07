@@ -1,7 +1,5 @@
-<h4 align="left">Hi, I'm Zain.</h4>
-<h5 align="left">I am self-taught, driven by humanity's greatest nature "curiousity".
-All I do is write those if-else statements and debug a lot.
-</h5>
+<h4 align="left">Hello there</h4>
+<h5 align="left">Beware of force-push!</h5>
 
 ---
 <h4 align="center">Find me on</h4>
