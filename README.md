@@ -18,11 +18,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.15.0-dev.4](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.15.0-dev.4) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
-2. 🚀 Published release [v4.15.0-dev.37](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.37) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-3. 🚀 Published release [v4.15.0-dev.36](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.36) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-4. 🚀 Published release [v4.15.0-dev.35](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.35) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-5. 🚀 Published release [v4.15.0-dev.34](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.34) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+1. 🚀 Published release [v4.15.0-dev.40](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.40) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+2. 🚀 Published release [v4.15.0-dev.39](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.39) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+3. 🚀 Published release [v4.15.0-dev.38](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.38) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+4. 🗣 Commented on [#3629](https://github.com/ReVanced/revanced-patches/pull/3629#issuecomment-2353755657) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
+5. 🚀 Published release [v1.15.0-dev.4](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.15.0-dev.4) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
 <!--END_SECTION:activity-->
 
 ---
