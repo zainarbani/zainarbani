@@ -7,7 +7,7 @@
 <p align="left">
   <a href="https://www.youtube.com/@zainarbani"><img width="32px" src="https://www.freeiconspng.com/uploads/youtube-subscribe-png-youtube-subscribe-to-5.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/invite/4dMPpvKm"><img width="32px" src="https://www.freeiconspng.com/uploads/discord-icon-7.png"/></a>
+  <a href="mailto:zaintsyariev@gmail.com"><img width="32px" src="https://www.freeiconspng.com/uploads/email-icon--100-flat-vol-2-iconset--graphicloads-18.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/AnotherZain"><img width="32px" src="https://www.freeiconspng.com/uploads/telegram-icon-1.png"></a>
 </p>
