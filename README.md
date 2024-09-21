@@ -18,11 +18,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.15.0-dev.82](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.82) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-2. 🚀 Published release [v4.15.0-dev.81](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.81) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-3. 🚀 Published release [v4.15.0-dev.80](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.80) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-4. 🗣 Commented on [#3629](https://github.com/ReVanced/revanced-patches/pull/3629#issuecomment-2364988572) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
-5. 🚀 Published release [v4.15.0-dev.79](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.79) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+1. 💪 Opened PR [#696](https://github.com/ReVanced/revanced-integrations/pull/696) in [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations)
+2. 💪 Opened PR [#3668](https://github.com/ReVanced/revanced-patches/pull/3668) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
+3. 🚀 Published release [v4.15.0-dev.82](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.82) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+4. 🚀 Published release [v4.15.0-dev.81](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.81) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+5. 🚀 Published release [v4.15.0-dev.80](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.80) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
 <!--END_SECTION:activity-->
 
 ---
