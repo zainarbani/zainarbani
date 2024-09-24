@@ -18,11 +18,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.14.3-dev.5](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.14.3-dev.5) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
-2. 🚀 Published release [v4.15.0-dev.17](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.17) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-3. 🚀 Published release [v1.14.3-dev.4](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.14.3-dev.4) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
-4. 🚀 Published release [v4.15.0-dev.16](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.16) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-5. 🚀 Published release [v4.15.0-dev.15](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.15) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+1. 🗣 Commented on [#3629](https://github.com/ReVanced/revanced-patches/pull/3629#issuecomment-2370007650) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
+2. 🚀 Published release [v1.14.3-dev.5](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.14.3-dev.5) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
+3. 🚀 Published release [v4.15.0-dev.17](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.17) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+4. 🚀 Published release [v1.14.3-dev.4](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.14.3-dev.4) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
+5. 🚀 Published release [v4.15.0-dev.16](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.16) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
 <!--END_SECTION:activity-->
 
 ---
