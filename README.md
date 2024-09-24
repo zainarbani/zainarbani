@@ -18,11 +18,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.15.0-dev.20](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.20) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-2. 🚀 Published release [v4.15.0-dev.19](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.19) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-3. 🚀 Published release [v4.15.0-dev.18](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.18) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-4. 🗣 Commented on [#3629](https://github.com/ReVanced/revanced-patches/pull/3629#issuecomment-2370007650) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
-5. 🚀 Published release [v1.14.3-dev.5](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.14.3-dev.5) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
+1. 🚀 Published release [v4.15.0-dev.21](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.21) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+2. 🚀 Published release [v4.15.0-dev.20](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.20) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+3. 🚀 Published release [v4.15.0-dev.19](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.19) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+4. 🚀 Published release [v4.15.0-dev.18](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.18) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+5. 🗣 Commented on [#3629](https://github.com/ReVanced/revanced-patches/pull/3629#issuecomment-2370007650) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
 <!--END_SECTION:activity-->
 
 ---
