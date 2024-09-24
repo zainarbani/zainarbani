@@ -18,11 +18,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.15.0-dev.26](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.26) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-2. 🚀 Published release [v4.15.0-dev.25](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.25) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-3. 🚀 Published release [v4.15.0-dev.24](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.24) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-4. 💪 Opened PR [#701](https://github.com/ReVanced/revanced-integrations/pull/701) in [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations)
-5. 🚀 Published release [v4.15.0-dev.23](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.23) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+1. 🚀 Published release [v4.15.0-dev.28](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.28) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+2. 🚀 Published release [v4.15.0-dev.27](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.27) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+3. 🚀 Published release [v4.15.0-dev.26](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.26) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+4. 🚀 Published release [v4.15.0-dev.25](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.25) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+5. 🚀 Published release [v4.15.0-dev.24](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.24) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
 <!--END_SECTION:activity-->
 
 ---
