@@ -18,11 +18,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.14.3-dev.12](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.14.3-dev.12) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
-2. 🚀 Published release [v4.15.0-dev.34](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.34) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-3. 🚀 Published release [v1.14.3-dev.11](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.14.3-dev.11) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
-4. 🚀 Published release [v1.14.3-dev.10](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.14.3-dev.10) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
-5. 🚀 Published release [v1.14.3-dev.9](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.14.3-dev.9) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
+1. 🚀 Published release [v4.15.0-dev.35](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.35) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+2. 🚀 Published release [v1.14.3-dev.12](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.14.3-dev.12) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
+3. 🚀 Published release [v4.15.0-dev.34](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.34) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+4. 🚀 Published release [v1.14.3-dev.11](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.14.3-dev.11) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
+5. 🚀 Published release [v1.14.3-dev.10](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.14.3-dev.10) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
 <!--END_SECTION:activity-->
 
 ---
