@@ -18,11 +18,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.16.1](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.16.1) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
-2. 🚀 Published release [v1.15.1](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.15.1) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
-3. 🚀 Published release [Qt](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.15.1) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
-4. 🚀 Published release [v4.17.1](https://github.com/zainarbani/revanced-patches/releases/tag/v4.17.1) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-5. 🚀 Published release [4.17.0](https://github.com/zainarbani/revanced-patches/releases/tag/4.17.0) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+1. 🗣 Commented on [#3629](https://github.com/ReVanced/revanced-patches/pull/3629#issuecomment-2393658964) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
+2. 🚀 Published release [v1.16.1](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.16.1) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
+3. 🚀 Published release [v1.15.1](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.15.1) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
+4. 🚀 Published release [Qt](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.15.1) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
+5. 🚀 Published release [v4.17.1](https://github.com/zainarbani/revanced-patches/releases/tag/v4.17.1) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
 <!--END_SECTION:activity-->
 
 ---
