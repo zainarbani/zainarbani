@@ -18,11 +18,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3629](https://github.com/ReVanced/revanced-patches/pull/3629#issuecomment-2391891246) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
-2. 🗣 Commented on [#3629](https://github.com/ReVanced/revanced-patches/pull/3629#issuecomment-2390522358) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
-3. 🗣 Commented on [#3629](https://github.com/ReVanced/revanced-patches/pull/3629#issuecomment-2390489984) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
-4. 🚀 Published release [v4.15.0-dev.69](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.69) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
-5. 🚀 Published release [v4.15.0-dev.68](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.68) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
+1. 🗣 Commented on [#2245](https://github.com/ReVanced/revanced-manager/issues/2245#issuecomment-2393101910) in [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)
+2. 🗣 Commented on [#3629](https://github.com/ReVanced/revanced-patches/pull/3629#issuecomment-2391891246) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
+3. 🗣 Commented on [#3629](https://github.com/ReVanced/revanced-patches/pull/3629#issuecomment-2390522358) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
+4. 🗣 Commented on [#3629](https://github.com/ReVanced/revanced-patches/pull/3629#issuecomment-2390489984) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
+5. 🚀 Published release [v4.15.0-dev.69](https://github.com/zainarbani/revanced-patches/releases/tag/v4.15.0-dev.69) in [zainarbani/revanced-patches](https://github.com/zainarbani/revanced-patches)
 <!--END_SECTION:activity-->
 
 ---
