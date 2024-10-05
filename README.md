@@ -18,11 +18,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#711](https://github.com/ReVanced/revanced-integrations/pull/711) in [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations)
-2. 🗣 Commented on [#3629](https://github.com/ReVanced/revanced-patches/pull/3629#issuecomment-2393668964) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
-3. 🗣 Commented on [#3629](https://github.com/ReVanced/revanced-patches/pull/3629#issuecomment-2393658964) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
-4. 🚀 Published release [v1.16.1](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.16.1) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
-5. 🚀 Published release [v1.15.1](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.15.1) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
+1. 🗣 Commented on [#711](https://github.com/ReVanced/revanced-integrations/pull/711#issuecomment-2394951049) in [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations)
+2. 💪 Opened PR [#711](https://github.com/ReVanced/revanced-integrations/pull/711) in [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations)
+3. 🗣 Commented on [#3629](https://github.com/ReVanced/revanced-patches/pull/3629#issuecomment-2393668964) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
+4. 🗣 Commented on [#3629](https://github.com/ReVanced/revanced-patches/pull/3629#issuecomment-2393658964) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
+5. 🚀 Published release [v1.16.1](https://github.com/zainarbani/revanced-integrations/releases/tag/v1.16.1) in [zainarbani/revanced-integrations](https://github.com/zainarbani/revanced-integrations)
 <!--END_SECTION:activity-->
 
 ---
