@@ -18,7 +18,7 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36487](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/pull/36487) in [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource)
+1. 💪 Opened PR [#81](https://github.com/sebaubuntu-python/aospdtgen/pull/81) in [sebaubuntu-python/aospdtgen](https://github.com/sebaubuntu-python/aospdtgen)
 2. 🗣 Commented on [#3637](https://github.com/ReVanced/revanced-patches/pull/3637#issuecomment-2425640095) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
 3. 🗣 Commented on [#3637](https://github.com/ReVanced/revanced-patches/pull/3637#issuecomment-2425636336) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
 4. 🗣 Commented on [#3637](https://github.com/ReVanced/revanced-patches/pull/3637#issuecomment-2424118756) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
