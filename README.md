@@ -18,10 +18,10 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/Houvven/OplusUpdater/issues/7) in [Houvven/OplusUpdater](https://github.com/Houvven/OplusUpdater)
-2. 💪 Opened PR [#81](https://github.com/sebaubuntu-python/aospdtgen/pull/81) in [sebaubuntu-python/aospdtgen](https://github.com/sebaubuntu-python/aospdtgen)
-3. 🗣 Commented on [#3637](https://github.com/ReVanced/revanced-patches/pull/3637#issuecomment-2425636336) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
-4. 🗣 Commented on [#3637](https://github.com/ReVanced/revanced-patches/pull/3637#issuecomment-2424118756) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
+1. 🗣 Commented on [#7](https://github.com/Houvven/OplusUpdater/issues/7#issuecomment-2567114973) in [Houvven/OplusUpdater](https://github.com/Houvven/OplusUpdater)
+2. 🔒 Closed issue [#7](https://github.com/Houvven/OplusUpdater/issues/7) in [Houvven/OplusUpdater](https://github.com/Houvven/OplusUpdater)
+3. ❗ Opened issue [#7](https://github.com/Houvven/OplusUpdater/issues/7) in [Houvven/OplusUpdater](https://github.com/Houvven/OplusUpdater)
+4. 💪 Opened PR [#81](https://github.com/sebaubuntu-python/aospdtgen/pull/81) in [sebaubuntu-python/aospdtgen](https://github.com/sebaubuntu-python/aospdtgen)
 5. 🗣 Commented on [#3637](https://github.com/ReVanced/revanced-patches/pull/3637#issuecomment-2424094621) in [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
 <!--END_SECTION:activity-->
 
