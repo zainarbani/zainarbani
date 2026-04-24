@@ -18,7 +18,7 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2774](https://github.com/tiann/KernelSU/issues/2774) in [tiann/KernelSU](https://github.com/tiann/KernelSU)
+1. 💪 Opened PR [#12](https://github.com/bkerler/sboot_dump/pull/12) in [bkerler/sboot_dump](https://github.com/bkerler/sboot_dump)
 2. 💪 Opened PR [#66](https://github.com/AndroidDumps/dumpyara/pull/66) in [AndroidDumps/dumpyara](https://github.com/AndroidDumps/dumpyara)
 3. 🔒 Closed issue [#7](https://github.com/Houvven/OplusUpdater/issues/7) in [Houvven/OplusUpdater](https://github.com/Houvven/OplusUpdater)
 4. 💪 Opened PR [#81](https://github.com/sebaubuntu-python/aospdtgen/pull/81) in [sebaubuntu-python/aospdtgen](https://github.com/sebaubuntu-python/aospdtgen)
