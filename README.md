@@ -18,11 +18,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/31#issuecomment-5084748106) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
-2. 💪 Opened PR [#48](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/48) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
-3. 🗣 Commented on [#15](https://github.com/pubglite55/oppo-ghostlock/issues/15#issuecomment-5030690677) in [pubglite55/oppo-ghostlock](https://github.com/pubglite55/oppo-ghostlock)
-4. 🗣 Commented on [#15](https://github.com/pubglite55/oppo-ghostlock/issues/15#issuecomment-5030554604) in [pubglite55/oppo-ghostlock](https://github.com/pubglite55/oppo-ghostlock)
-5. 🗣 Commented on [#15](https://github.com/pubglite55/oppo-ghostlock/issues/15#issuecomment-5023360050) in [pubglite55/oppo-ghostlock](https://github.com/pubglite55/oppo-ghostlock)
+1. 🗣 Commented on [#48](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/48#issuecomment-5084861135) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
+2. 🗣 Commented on [#31](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/31#issuecomment-5084748106) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
+3. 💪 Opened PR [#48](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/48) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
+4. 🗣 Commented on [#15](https://github.com/pubglite55/oppo-ghostlock/issues/15#issuecomment-5030690677) in [pubglite55/oppo-ghostlock](https://github.com/pubglite55/oppo-ghostlock)
+5. 🗣 Commented on [#15](https://github.com/pubglite55/oppo-ghostlock/issues/15#issuecomment-5030554604) in [pubglite55/oppo-ghostlock](https://github.com/pubglite55/oppo-ghostlock)
 <!--END_SECTION:activity-->
 
 ---
