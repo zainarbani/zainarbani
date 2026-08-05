@@ -18,11 +18,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/48#issuecomment-5180091096) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
-2. 🗣 Commented on [#125](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/125#issuecomment-5179260243) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
-3. 🗣 Commented on [#32](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/issues/32#issuecomment-5130256602) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
-4. 🗣 Commented on [#48](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/48#issuecomment-5084861135) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
-5. 🗣 Commented on [#31](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/31#issuecomment-5084748106) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
+1. 🗣 Commented on [#48](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/48#issuecomment-5189633146) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
+2. 🗣 Commented on [#48](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/48#issuecomment-5180091096) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
+3. 🗣 Commented on [#125](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/125#issuecomment-5179260243) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
+4. 🗣 Commented on [#32](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/issues/32#issuecomment-5130256602) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
+5. 🗣 Commented on [#48](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/48#issuecomment-5084861135) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
 <!--END_SECTION:activity-->
 
 ---
