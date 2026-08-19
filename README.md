@@ -18,11 +18,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#237](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/237#issuecomment-5333874825) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
-2. ❌ Closed PR [#48](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/48) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
-3. 🗣 Commented on [#160](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/issues/160#issuecomment-5333833788) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
-4. 💪 Opened PR [#237](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/237) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
-5. 🗣 Commented on [#160](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/issues/160#issuecomment-5301771747) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
+1. 🗣 Commented on [#160](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/issues/160#issuecomment-5337269761) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
+2. 🗣 Commented on [#237](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/237#issuecomment-5333874825) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
+3. ❌ Closed PR [#48](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/48) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
+4. 🗣 Commented on [#160](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/issues/160#issuecomment-5333833788) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
+5. 💪 Opened PR [#237](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/237) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
 <!--END_SECTION:activity-->
 
 ---
