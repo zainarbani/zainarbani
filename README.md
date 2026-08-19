@@ -18,11 +18,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AnonymousUser369/GhostLockAdapt/issues/1#issuecomment-5343559271) in [AnonymousUser369/GhostLockAdapt](https://github.com/AnonymousUser369/GhostLockAdapt)
-2. 🗣 Commented on [#1](https://github.com/AnonymousUser369/GhostLockAdapt/issues/1#issuecomment-5343467269) in [AnonymousUser369/GhostLockAdapt](https://github.com/AnonymousUser369/GhostLockAdapt)
-3. 🗣 Commented on [#1](https://github.com/AnonymousUser369/GhostLockAdapt/issues/1#issuecomment-5342023681) in [AnonymousUser369/GhostLockAdapt](https://github.com/AnonymousUser369/GhostLockAdapt)
-4. 🗣 Commented on [#1](https://github.com/AnonymousUser369/GhostLockAdapt/issues/1#issuecomment-5338919509) in [AnonymousUser369/GhostLockAdapt](https://github.com/AnonymousUser369/GhostLockAdapt)
-5. 🗣 Commented on [#1](https://github.com/AnonymousUser369/GhostLockAdapt/issues/1#issuecomment-5338550905) in [AnonymousUser369/GhostLockAdapt](https://github.com/AnonymousUser369/GhostLockAdapt)
+1. 🗣 Commented on [#237](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads/pull/237#issuecomment-5345570984) in [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
+2. 🗣 Commented on [#1](https://github.com/AnonymousUser369/GhostLockAdapt/issues/1#issuecomment-5343559271) in [AnonymousUser369/GhostLockAdapt](https://github.com/AnonymousUser369/GhostLockAdapt)
+3. 🗣 Commented on [#1](https://github.com/AnonymousUser369/GhostLockAdapt/issues/1#issuecomment-5343467269) in [AnonymousUser369/GhostLockAdapt](https://github.com/AnonymousUser369/GhostLockAdapt)
+4. 🗣 Commented on [#1](https://github.com/AnonymousUser369/GhostLockAdapt/issues/1#issuecomment-5342023681) in [AnonymousUser369/GhostLockAdapt](https://github.com/AnonymousUser369/GhostLockAdapt)
+5. 🗣 Commented on [#1](https://github.com/AnonymousUser369/GhostLockAdapt/issues/1#issuecomment-5338919509) in [AnonymousUser369/GhostLockAdapt](https://github.com/AnonymousUser369/GhostLockAdapt)
 <!--END_SECTION:activity-->
 
 ---
